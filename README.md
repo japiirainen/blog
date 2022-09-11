@@ -2,7 +2,6 @@
 
 Run locally:
 
-``` shell
+```shell
 deno task dev
 ```
-
